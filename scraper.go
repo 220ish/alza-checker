@@ -168,7 +168,7 @@ func main() {
 var searchTerm = "iphone 15 pro"
 
 func scraper() {
-	webhook := "https://discord.com/api/webhooks/1192978538937196644/HX7PHoYaw2DOGOqty3_FgO5SikiseJRQqM7io-n16ldfXbBHMEqYb7ag0XoNDgHoG0Xe"
+	webhook := "https://webhooks.slack.com/7io-n16ldfXbBHMEqYb7ag0XoNDgHoG0Xe"
 	url := "https://www.alza.sk/Services/RestService.svc/v5/search?density=3.0&country=sk"
 
 	headers := map[string]string{
