@@ -165,7 +165,7 @@ func main() {
 	}
 }
 
-var searchTerm = "iphone 15 pro"
+var searchTerm = "iphone 15 pro "
 
 func scraper() {
 	webhook := "https://webhooks.slack.com/7io-n16ldfXbBHMEqYb7ag0XoNDgHoG0Xe"
